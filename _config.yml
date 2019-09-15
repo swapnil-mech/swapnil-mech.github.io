@@ -17,14 +17,14 @@ github_username:  sproogen
 instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: globalmtbs
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello I am Swapnil Bhattacharya and I am a masters student at Rochester Institute of Technology. I am doing my ME in 
+  # Hello I am Swapnil Bhattacharya and I am a masters student at Rochester Institute of Technology. I am doing my ME in 
   Mechanical Engineering and hope to find internships and co-ops in companies.
   
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
